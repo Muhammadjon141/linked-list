@@ -94,3 +94,5 @@ l_list.push(79)
 l_list.push(458)
 l_list.push(753)
 print("Push: ", l_list.printList())
+
+print(l_list.printlist())
